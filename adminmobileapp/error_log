@@ -1,0 +1,25 @@
+[24-Aug-2013 12:39:26 UTC] PHP Warning:  POST Content-Length of 27777306 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Sep-2013 09:52:40 UTC] PHP Parse error:  syntax error, unexpected $end in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 164
+[11-Sep-2013 09:55:29 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 162
+[11-Sep-2013 09:55:30 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 162
+[11-Sep-2013 09:55:30 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 162
+[11-Sep-2013 09:55:30 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 162
+[11-Sep-2013 09:55:30 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 162
+[11-Sep-2013 09:55:30 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sidm1716/public_html/Adminpanel/add_more_images.php on line 162
+[20-Sep-2013 07:17:10 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 07:21:14 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:19:31 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:23:23 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:30:18 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:33:26 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:38:28 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:40:01 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2013 12:46:48 UTC] PHP Warning:  POST Content-Length of 11083875 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Sep-2013 08:45:58 UTC] PHP Warning:  POST Content-Length of 12842684 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Sep-2013 13:21:21 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sidm1716'@'localhost' (using password: NO) in /home/sidm1716/public_html/Adminpanel/login.php on line 20
+[28-Sep-2013 13:21:21 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sidm1716/public_html/Adminpanel/login.php on line 20
+[28-Sep-2013 13:21:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sidm1716/public_html/Adminpanel/login.php on line 21
+[28-Sep-2013 13:21:43 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sidm1716'@'localhost' (using password: NO) in /home/sidm1716/public_html/Adminpanel/login.php on line 20
+[28-Sep-2013 13:21:43 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sidm1716/public_html/Adminpanel/login.php on line 20
+[28-Sep-2013 13:21:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sidm1716/public_html/Adminpanel/login.php on line 21
+[30-Mar-2015 03:49:17 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/skilledfreelance/public_html/admin/manage_workcat_type.php:1) in /home/skilledfreelance/public_html/admin/includes/config.cfg on line 10

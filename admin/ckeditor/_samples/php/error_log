@@ -1,0 +1,8 @@
+[13-Jun-2018 07:27:04 UTC] PHP Notice:  Undefined index: wei in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:04 UTC] PHP Warning:  assert(): Assertion failed in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:10 UTC] PHP Notice:  Undefined index: wei in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:10 UTC] PHP Warning:  assert(): Assertion failed in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:25 UTC] PHP Notice:  Undefined index: wei in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:25 UTC] PHP Warning:  assert(): Assertion failed in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:30 UTC] PHP Notice:  Undefined index: wei in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1
+[13-Jun-2018 07:27:30 UTC] PHP Warning:  assert(): Assertion failed in /home/mybarnite/public_html/admin/ckeditor/_samples/php/theme.php on line 1

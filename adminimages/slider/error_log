@@ -1,0 +1,9 @@
+[07-Aug-2017 19:27:32 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 19:27:40 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 19:28:08 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 19:28:12 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 19:28:20 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 19:28:26 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 19:28:58 UTC] PHP Fatal error:  Call to undefined function import_request_variables() in /home/mybarnite/public_html/adminimages/slider/98fe8947b0735c153b08c86ff68fcc23.php on line 172
+[07-Aug-2017 20:03:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 27480672 bytes) in /home/mybarnite/public_html/adminimages/slider/54cd640effbad99915c6c7a5dc26ed12.php on line 586
+[07-Aug-2017 20:03:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 27487993 bytes) in /home/mybarnite/public_html/adminimages/slider/54cd640effbad99915c6c7a5dc26ed12.php on line 586
